@@ -245,9 +245,15 @@
     width: 50%;
   }
 
+  #wrapper {
+    display: flex;
+    border: 0;
+  }
+
   #first {
       border: 1px solid #36BBEB
   }
+
   #second {
       border: 1px solid #36BBEB
   }
