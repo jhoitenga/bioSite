@@ -255,7 +255,7 @@
   }
 
   #wrapper {
-    display: flex;
+    display: grid;
     border: 0;
   }
 
