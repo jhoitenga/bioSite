@@ -10,6 +10,13 @@
     vertical-align: middle;
   }
 
+  .image3 {
+    width: 260px;
+    height: 260px;
+    border-radius: 20%;
+    vertical-align: middle;
+  }
+
   .profile {
     position: relative;
   }
@@ -232,7 +239,6 @@
   }
 
   .image-txt-container {
-    display: flex;
     align-items: center;
     flex-direction: row;
     padding: 10px;
