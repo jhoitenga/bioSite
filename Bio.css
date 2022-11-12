@@ -13,8 +13,9 @@
   .image3 {
     width: 260px;
     height: 260px;
-    border-radius: 20%;
+    border-radius: 40%;
     vertical-align: middle;
+    text-align: center;
   }
 
   .profile {
