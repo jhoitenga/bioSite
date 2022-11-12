@@ -115,12 +115,12 @@
   }
 
   h3 {
-    text-align: left;
+    text-align: center;
     font-family: 'Comfortaa', cursive;
     font-weight: 400;
     padding: 10px;
     color: white;
-    text-align: center;
+    float: left;
   }
 
   p {
