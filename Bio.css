@@ -43,6 +43,7 @@
     position: relative;
     font-family: 'Comfortaa', cursive;
     font-weight: 700;
+    border-radius: 15px;
   }
   
   .button1 {
@@ -234,8 +235,8 @@
     align-items:center;
     flex-direction: row;
     padding: 15px;
-    border: 15px solid #36BBEB;
-    border-radius: 10px;
+    border: 12px solid #36BBEB;
+    border-radius: 15px;
     margin-top: 15px;
     margin-bottom: 15px;
   }
