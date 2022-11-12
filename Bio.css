@@ -43,7 +43,7 @@
     position: relative;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
-    border-radius: 20px;
+    border-radius: 15px;
   }
   
   .button1 {
@@ -237,7 +237,7 @@
     flex-direction: row;
     padding: 10px;
     border: 10px solid #36BBEB;
-    border-radius: 15px;
-    margin-top: 5px;
+    border-radius: 25px;
+    margin-top: 10px;
     margin-bottom: 15px;
   }
