@@ -59,6 +59,7 @@
     color: white;
     font-size: 16px;
     border: 6px solid #4CAF50;
+    text-shadow: 0.05em 0 black, 0 0.05em black, -0.05em 0 black, 0 -0.05em black, -0.05em -0.05em black, -0.05em 0.05em black, 0.05em -0.05em black, 0.05em 0.05em black;
   }
   
   .button1:hover {
