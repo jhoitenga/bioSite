@@ -119,6 +119,8 @@
     font-family: 'Comfortaa', cursive;
     font-weight: 400;
     padding: 10px;
+    position: absolute;
+    color: white;
   }
 
   p {
