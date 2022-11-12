@@ -251,8 +251,7 @@
     margin-right: 15px;
     margin-bottom: 20px;
     background-color: #36BBEB;
-    text-align: center;
-    vertical-align: middle;
+    max-width: 50%;
   }
 
   #wrapper {
