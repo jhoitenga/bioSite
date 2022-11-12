@@ -24,6 +24,7 @@
     font-size: 50px;
     color: white;
     background-color: #D3DD68;
+    opacity: 0.2;
   }
 
   .top-right {
@@ -96,7 +97,6 @@
     font-size: 50px;
     color: white;
     background-color: #D3DD68;
-    opacity:0.2;
   }
 
   h2 {
@@ -242,7 +242,7 @@
     border-radius: 40px;
     margin-top: 15px;
     margin-left: 15px;
-    margin-right: 14px;
+    margin-right: 0px;
     margin-bottom: 20px;
     background-color: #36BBEB;
     width: 45%;
