@@ -237,7 +237,8 @@
     flex-direction: row;
     padding: 10px;
     border: 10px solid #36BBEB;
-    border-radius: 50px;
+    border-radius: 40px;
     margin-top: 15px;
     margin-bottom: 20px;
+    background-color: #36BBEB;
   }
