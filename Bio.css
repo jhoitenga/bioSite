@@ -235,4 +235,6 @@
     align-items:center;
     flex-direction: row;
     padding: 10px;
+    border-radius: 2em;
+    border: #36BBEB;
   }
