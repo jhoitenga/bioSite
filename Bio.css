@@ -243,3 +243,10 @@
     background-color: #36BBEB;
     width: 50%;
   }
+
+  #first {
+      border: 1px solid #36BBEB
+  }
+  #second {
+      border: 1px solid #36BBEB
+  }
