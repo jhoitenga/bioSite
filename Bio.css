@@ -252,6 +252,7 @@
     margin-bottom: 20px;
     background-color: #36BBEB;
     max-width: 50%;
+    min-width: 50%;
   }
 
   #wrapper {
