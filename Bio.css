@@ -50,7 +50,7 @@
     background-color: transparent;
     color: white;
     font-size: 16px;
-    border: 4px solid #4CAF50;
+    border: 6px solid #4CAF50;
   }
   
   .button1:hover {
@@ -62,7 +62,7 @@
     background-color: transparent; 
     color: white;
     font-size: 16px;
-    border: 4px solid #36BBEB;
+    border: 6px solid #36BBEB;
     position: relative;
   }
   
@@ -75,7 +75,7 @@
     background-color: transparent;
     color: white;
     font-size: 16px;
-    border: 4px solid #36BBEB;
+    border: 6px solid #36BBEB;
     position: relative;
   }
   
@@ -108,7 +108,7 @@
   }
 
   h3 {
-    text-align: left;
+    text-align: center;
     font-family: 'Comfortaa', cursive;
     font-weight: 400;
   }
@@ -231,11 +231,11 @@
   }
 
   .image-txt-container {
-    display:flex;
-    align-items:center;
+    display: flex;
+    align-items: center;
     flex-direction: row;
     padding: 10px;
-    border: 15px solid #36BBEB;
+    border: 10px solid #36BBEB;
     border-radius: 15px;
     margin-top: 15px;
     margin-bottom: 15px;
