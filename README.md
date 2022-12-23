@@ -7,5 +7,3 @@ BioSite project for Web 200
   <li>Professor Kumar</li>
   <li>Jennifer Hoitenga</li>
  </ul>
-
-[![Created Badge](https://badges.pufler.dev/created/jhoitenga/bioSite)](https://badges.pufler.dev)
